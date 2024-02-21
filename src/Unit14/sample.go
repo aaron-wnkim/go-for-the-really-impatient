@@ -1,4 +1,4 @@
-// https://pyrasis.com/book/GoForTheReallyImpatient/Unit05
+// https://pyrasis.com/book/GoForTheReallyImpatient/Unit14
 package main
 
 import "fmt"

@@ -1,3 +1,4 @@
+// https://pyrasis.com/book/GoForTheReallyImpatient/Unit08
 package main
 
 func main() {

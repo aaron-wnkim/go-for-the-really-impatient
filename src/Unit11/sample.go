@@ -1,6 +1,5 @@
+// https://pyrasis.com/book/GoForTheReallyImpatient/Unit11
 package main
-
-import "fmt"
 
 func main() {
 	sample111()

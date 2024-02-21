@@ -1,3 +1,4 @@
+// https://pyrasis.com/book/GoForTheReallyImpatient/Unit08/06
 package main
 
 import "fmt"
